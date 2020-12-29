@@ -28,6 +28,7 @@ ball.color('white')
 ball.shape('circle')
 ball.penup()
 ball.goto(0,0)
+#speed of the ball
 ball.dx=.1
 ball.dy=.1
 #PEN
